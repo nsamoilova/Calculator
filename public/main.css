@@ -1,0 +1,174 @@
+/*!*****************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/style/default.scss ***!
+  \*****************************************************************************************************************/
+body {
+  margin: 0;
+}
+/*!**********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/style.module.scss ***!
+  \**********************************************************************************************************************************/
+.gQGUvMDEepTC9riZ04uF {
+  background-color: black;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+/*!**************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Menu/style.module.scss ***!
+  \**************************************************************************************************************************************************/
+.Qym5BzR8m8nJAAXd3K_p {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+/*!**********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Menu/components/MenuItem/style.module.scss ***!
+  \**********************************************************************************************************************************************************************/
+.CGxZk4TYdN0sd09UbIc9 {
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 16px;
+  display: inline-block;
+  margin-right: 30px;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+  transition: color 1s linear;
+  opacity: 0.3s ease-in-out;
+}
+
+.CGxZk4TYdN0sd09UbIc9:last-child {
+  margin-right: 0;
+}
+
+.CGxZk4TYdN0sd09UbIc9:hover {
+  border-bottom: 1px solid #fbdc0c;
+  box-shadow: inset 0px -1px 0px 0px #fbdc0c;
+  transition: all 0.3s linear;
+}
+/*!******************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Contacts/style.module.scss ***!
+  \******************************************************************************************************************************************************/
+.kfYIOxGIi355853htsVP {
+  display: flex;
+  justify-content: space-between;
+  width: auto;
+}
+/*!***********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Contacts/components/Phone/style.module.scss ***!
+  \***********************************************************************************************************************************************************************/
+.ZaFfUCcwxiFeO7pyeWPQ {
+  display: flex;
+  max-width: 183px;
+  flex-wrap: wrap;
+  margin-right: 30px;
+}
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Contacts/components/Phone/components/Phoneitem/style.module.scss ***!
+  \********************************************************************************************************************************************************************************************/
+.VeT3d40OA9f9nUutao3t {
+  color: #f8f6f4;
+  font-size: 20px;
+  font-weight: 600;
+  white-space: nowrap;
+  font-family: Arial, sans-serif;
+  cursor: pointer;
+  border-bottom: 1px solid #fbdc0c;
+  box-shadow: inset 0px -1px 0px 0px #fbdc0c;
+  text-decoration: none;
+}
+/*!************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Contacts/components/Social/style.module.scss ***!
+  \************************************************************************************************************************************************************************/
+.MsaTe3XvS4Mm0HOjPBqR {
+  display: flex;
+  width: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Contacts/components/Social/components/SocialItem/style.module.scss ***!
+  \**********************************************************************************************************************************************************************************************/
+.KZXtxgMbpVMkcCZe888E {
+  display: flex;
+  color: white;
+  width: 35px;
+  height: 35px;
+  margin-right: 10px;
+  cursor: pointer;
+}
+
+.KZXtxgMbpVMkcCZe888E:last-child {
+  margin-right: 0;
+}
+/*!**************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Header/components/Logo/style.module.scss ***!
+  \**************************************************************************************************************************************************/
+.gFzuE2kv50fn5MTWpv9f {
+  max-width: 200px;
+  width: 200px;
+  min-width: 200px;
+  height: auto;
+  display: block;
+}
+/*!***********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Content/style.module.scss ***!
+  \***********************************************************************************************************************************/
+.eTTtVchPo2Vz_EwAl36v {
+  flex-grow: 1;
+}
+/*!***************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Content/components/Form/style.module.scss ***!
+  \***************************************************************************************************************************************************/
+.IPivzTuXXCaHclp7kFxl {
+  margin: 15px;
+}
+
+.ajbOrPlHNtCww3NBRDXl {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 30px;
+}
+
+.oPgosF5cNVtLi402lw9l {
+  width: 50px;
+  height: 50px;
+}
+/*!***********************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Content/components/Todo/components/TodoItem/style.module.scss ***!
+  \***********************************************************************************************************************************************************************/
+.UhB0WikZjqQkdAXGsVhf {
+  border: 1px solid #adaaaa;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.UhB0WikZjqQkdAXGsVhf:not(:last-child) {
+  margin-bottom: 15px;
+}
+/*!***************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Form/Button/style.module.scss ***!
+  \***************************************************************************************************************************************/
+.JFaYntXRb6CXqteV28gj {
+  border: 1px solid black;
+  padding: 15px;
+}
+/*!***************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Content/components/Todo/style.module.scss ***!
+  \***************************************************************************************************************************************************/
+.exa05E33nfF26m6Js4AK {
+  margin: 15px auto;
+  max-width: 500px;
+  width: 100%;
+}
+/*!**********************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/components/Footer/style.module.scss ***!
+  \**********************************************************************************************************************************/
+.xctHIHyRXVi8Z4Y9o4Ud {
+  height: 50px;
+  background-color: black;
+  color: blanchedalmond;
+}

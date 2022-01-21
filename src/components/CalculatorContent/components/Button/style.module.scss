@@ -1,0 +1,32 @@
+.button {
+    cursor: pointer;
+    background-color: rgb(240, 238, 238);
+    border: 1px solid #85808010;
+    font-size: 30px;
+    font-family: system-ui;
+    font-weight: 200;
+    color: #000000b0;
+    flex: 1 0 26%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.button:hover{
+    opacity: 0.9;
+}
+.orange{
+    background-color: #ffac14f2;
+    
+   
+}
+
+.orange:hover{
+    background-color: #f8a30650
+}
+
+.grey{
+    background-color: #cfcccc;
+}
+

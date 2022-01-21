@@ -1,0 +1,95 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+  }
+
+.content{
+    height: 80vh;
+  width: 50vh;
+  margin: 0 auto;
+  padding: 1rem;
+  
+
+}
+
+.container{
+    background-color: black;
+    display: grid;
+  height: 100%;
+  width: 100%;
+  grid-template-areas:
+    "total total total total"
+    "modif modif modif oper"
+    "digit digit digit oper"
+    "digit digit digit oper"
+    "digit digit digit oper"
+    "digit digit digit oper";
+  grid-auto-columns: 1fr;
+  
+    
+}
+
+.span{
+    grid-area: total;
+    color: white;
+    justify-content: flex-end;
+    align-items: end;
+    width: 100%;
+    display: flex;
+    font-size: 92px;
+    font-family: system-ui;
+    font-weight: 100;
+    padding-right: 30px;
+}
+
+.digitsTop{
+    display: grid;
+    grid-area: modif;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+
+
+
+
+.digitsNumbers{
+    grid-area: digit;
+    display: flex;
+    flex-wrap: wrap;
+    flex: 1 0 26%;
+    
+}
+
+.digitsNumbers button{
+    flex: 1 0 26%;
+    
+}
+
+.operatorsRight{
+    display: grid;
+    grid-area: oper;
+}
+
+.operatorsRight {
+    background-color: orange;
+    color: white;
+    font-size: 50px;
+}
+
+
+
+
+
+
+.pointer{
+    font-weight: 700;
+}
+
+button:hover{
+    opacity: 0.9;
+}
+
+
+
