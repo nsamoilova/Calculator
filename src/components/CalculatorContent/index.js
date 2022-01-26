@@ -122,7 +122,7 @@ const CalculatorContent = (type) => {
       if (!operator) return;
 
       if (operator === "+") {
-        setValue((memory + parseFloat(value)).toString());
+        setValue((memory + parseFloat(value)).toFixed(1));
       } else if (operator === "−") {
         setValue((memory - parseFloat(value)).toString());
       } else if (operator === "×") {
